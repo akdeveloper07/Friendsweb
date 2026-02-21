@@ -1,6 +1,3 @@
-// server.js - Complete Express + Socket.IO backend
-// Run: npm install express mysql2 socket.io bcrypt jsonwebtoken cors dotenv nodemailer multer uuid qrcode
-
 require('dotenv').config();
 const express = require('express');
 const http = require('http');
